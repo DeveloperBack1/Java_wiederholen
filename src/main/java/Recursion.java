@@ -4,7 +4,6 @@ public class Recursion {
     }
 
     public static void counter(int n){
-
         if(n==0){
             return;
         }

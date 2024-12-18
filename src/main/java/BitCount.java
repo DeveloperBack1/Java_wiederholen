@@ -1,6 +1,7 @@
 public class BitCount {
     public static int countOnes(int n) {
         return Integer.bitCount(n);
+
     }
 
     public static void main(String[] args) {
