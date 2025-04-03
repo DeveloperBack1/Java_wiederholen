@@ -1,5 +1,4 @@
 package basics.finalhomework;
-
 import java.util.Scanner;
 
 public class ContactManager {
